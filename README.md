@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Atul Hooda 👋</h1>
+
+<hr>
+
+<h3 align="center">
+Backend Developer | Python • FastAPI • Django
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atulhooda&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <!--
 **atulhooda/atulhooda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
