@@ -3,7 +3,7 @@
 <hr>
 
 <h3 align="center">
-Backend Developer | Python • FastAPI • Django
+ML Enthusiast | Python • AI • Deep Learning
 </h3>
 
 <p align="center">
